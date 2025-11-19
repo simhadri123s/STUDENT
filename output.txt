@@ -1,0 +1,7 @@
+Enter Student Name: Raju
+Enter Rank: 1200
+Enter Preferred Branch: CSE
+
+Counselling Result 
+Allocated College : JNTU Hyderabad
+Allocated Branch  : CSE
